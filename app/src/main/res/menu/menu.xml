@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_placemarks_list"
+        android:icon="@drawable/ic_list_bulleted_48"
+        android:title="@string/action_placemarks_list"
+        app:showAsAction="ifRoom"/>
+
+</menu>

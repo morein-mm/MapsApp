@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="placemark_description">Placemark description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_placemark">Create placemark</string>
+    <string name="edit_placemark">Edit placemark</string>
+    <string name="action_placemarks_list">Placemarks list</string>
+    <string name="select_action">Select action</string>
+    <string name="edit">Edit marker</string>
+    <string name="delete">Delete</string>
+</resources>
