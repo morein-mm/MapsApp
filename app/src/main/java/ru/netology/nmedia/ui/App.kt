@@ -6,7 +6,7 @@ import ru.netology.nmedia.BuildConfig
 
 class App : Application() {
     override fun onCreate() {
-        super.onCreate()
         MapKitFactory.setApiKey(BuildConfig.MAPKIT_API_KEY)
+        super.onCreate()
     }
 }
